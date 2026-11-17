@@ -1,0 +1,6 @@
+{
+  "name": "ঢাকা রিকশা",
+  "description": "ঢাকার ব্যস্ত রাস্তায় রঙিন প্যাল-চালিত ঐতিহ্যবাহী রিকশা চালানোর মজার ২ডি কার্টুন গেম — যেখানে রয়েছে ১৫০+ মজার বাংলা সংলাপ, মিশন এবং গ্যারেজ কাস্টমাইজেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
